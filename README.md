@@ -4,12 +4,7 @@ This is a synthetic benchmark for evaluating the performance of a Extract Method
 
 
 
-1. Pluto 1.0
-
-This version contains three OSS study, which includes EventBus, Mockito, and JavaPoet.
-
-
-
-2.Pluto 2.0
-
-  This version is in-development.
+1. ##Pluto 1.0
+    This version contains three OSS study, which includes EventBus, Mockito, and JavaPoet.
+2. ##Pluto 2.0
+    This version is in-development.
